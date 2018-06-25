@@ -2,7 +2,7 @@
 
 ## 2018
 June 29: Presentation at the Closing Ceremony of the "Jahr der digitalen Bildung" of the province of Upper Austria
-June 25: OCCD of the ÖCG (???)
+June 25: Presentation at the opening ceremony at the OCCE (Open Conference on Computers in Education) held at the Ars Electronica Center Linz.
 May 18: Presentation at the We Are Developers Conference, Vienna
 April 21: Presentation at the Global Azure Bootcamp, Linz
 April 20: Presentation at the CoderDojo, Linz
