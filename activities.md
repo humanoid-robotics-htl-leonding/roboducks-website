@@ -1,6 +1,7 @@
 # Activities
 
 ## 2018
+- **October 10 - 13:** Naos @ Messe Jugend und Beruf. The Naos were present at all four days of the trade fare "Jugend und Beruf". A lot of junior students were attracted by our robots and hopefully will find their way to our school in Fall 2019.
 - **September 06 - 10:** Naos @ Ars Electronica Festival 2018. The Naos were present at all five days of the Ars Electronica Festival and we showed young coders how to program humanoid robots.
 - **June 29**: Presentation at the Closing Ceremony of the "Jahr der digitalen Bildung" of the province of Upper Austria
 - **June 25**: Presentation at the opening ceremony at the OCCE (Open Conference on Computers in Education) held at the Ars Electronica Center Linz.
