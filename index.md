@@ -1,18 +1,21 @@
-# Humanoid Robotics @ HTL Leonding
-Humanoid Robotics is a part of the HTL Leonding's *Program of Excellence* which offers a range of different intensive courses. The main aim of Humanoid Robotics is to motivate students of our school to solve complex problems in the field of
+# Main Page
 
-- Computer Vision
-- Autonomous Systems
-- Voice Recognition
-- Artificial Intelligence
+## Slideshow
+### Slide 1
+Welcome to the Humanoid Robotics Webpage of the HTL Leonding.
 
-The course is open for all students from 2nd to 5th grade who are interested in the above mentioned areas. The prerequisites are a good knowledge in programming and a strong focus in solving complex technical problems.
+### Slide 2
+We won!! The team Day Nao of the HTL Leonding won the first price in the Demo Humaoid Challenge at the Austrian Open of the RoboCup Junior 2018. Congrats to the team!
 
-The course offerst the following two tracks:
+### Slide 3
+We are at the Ars Electronica Festival. As part of the CoderDojo Linz we present our robots at the Festival 2018.
 
-1. Basic Humanoid Behavior
-2. Robo Soccer
+### Slide 4
+We are at the "Messe für Jugend & Beruf" in Wels.
 
-The Basic Humanoid Behavior addresses basic problems in programming humanoid robots like autonomous movements, natural interaction with humans, face recognition, speech recognition, etc. It is closely connected to the [Demo Humanoid Challenge](https://robocupjunior.at/wp-content/uploads/2018/02/Demo-Humanoid-Competition-2018-V1-5-1-FINAL.pdf) yearly held during the Austrian Open of the RoboCup Junior.
+### Slide 5
+We are at the "Tag der offenen Tür" of the HTL Leonding.
 
-In the Robo Soccer track the central aim is to build the software necessary to get a robo team for the [Standard Platform League](http://spl.robocup.org) of the RoboCup.
+## Sponsors
+- Fabasoft
+- Absolventenverein der HTL Leonding
