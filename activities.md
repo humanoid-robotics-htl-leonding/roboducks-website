@@ -2,7 +2,7 @@
 ## 2019
 - **January 24 and 25:**: Abend und Tag der offenen Tür at the HTL Leonding.
 - **January 24:** Schnuppertag der NMS Wartberg/Krems.
-- **January 19:** Ball der Leondinger. This dance carries the motto *Leonding 2030*. Our robots welcome the guests, and guide them through the first minutes of the ball. As a highlight the Naos will open the ball together with *Leonie* the Avatar of the HTL Leonding.
+- **January 19:** Ball der Leondinger. This dance carries the motto *Leonding 2030*. Our robots welcome the guests, and guide them through the first minutes of the ball. As a highlight the Naos will open the ball together with *Leonie* the Avatar of the HTL Leonding [A footage of this video](https://www.youtube.com/watch?v=YBva_K3JlfY&feature=youtu.be) shows the result.
 ## 2018
 - **October 10 - 13:** Naos @ Messe Jugend und Beruf. The Naos were present at all four days of the trade fare "Jugend und Beruf". A lot of junior students were attracted by our robots and hopefully will find their way to our school in Fall 2019.
 - **September 06 - 10:** Naos @ Ars Electronica Festival 2018. The Naos were present at all five days of the Ars Electronica Festival and we showed young coders how to program humanoid robots.
