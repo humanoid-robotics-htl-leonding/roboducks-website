@@ -1,5 +1,6 @@
 # Activities
 ## 2019
+- **January 31:**: Visit of Wolfgang Sobotka the president of the Federal Austrian Government at the HTL Leonding. Our Naos asked the president a question concerning robots, artificial intelligence and democracy.
 - **January 24 and 25:**: Abend und Tag der offenen Tür at the HTL Leonding.
 - **January 24:** Schnuppertag der NMS Wartberg/Krems.
 - **January 19:** Ball der Leondinger. This dance carries the motto *Leonding 2030*. Our robots welcome the guests, and guide them through the first minutes of the ball. As a highlight the Naos will open the ball together with *Leonie* the Avatar of the HTL Leonding [A footage of this video](https://www.youtube.com/watch?v=YBva_K3JlfY&feature=youtu.be) shows the result.
