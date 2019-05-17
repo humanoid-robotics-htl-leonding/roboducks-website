@@ -1,5 +1,6 @@
 # Activities
 ## 2019
+- **April 25 and 26:** Attended the [RoboCup Junior Austrian Open in Innsbruck](http://rcj.at). Great results: Our teams (Backup and AI-Performance) won the first and the second prize. 
 - **January 31:**: Visit of Wolfgang Sobotka the president of the Federal Austrian Government at the HTL Leonding. Our Naos asked the president a question concerning robots, artificial intelligence and democracy.
 - **January 24 and 25:**: Abend und Tag der offenen Tür at the HTL Leonding.
 - **January 24:** Schnuppertag der NMS Wartberg/Krems.
