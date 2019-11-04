@@ -1,5 +1,10 @@
 # Activities
 ## 2019
+- **December 12:** We are at the Summit Industrie 4.0 in Linz.
+- **October 11:** Nao soccer team and Demo Humanoid Challenge presents at the CoderDojo special event at the HTL Leonding. About 120 kids are at this event.
+- **October 10:** Nao soccer team is at the alpha talk of the Hofer KG in Eberstalzell
+- **October 02 - 05:** Naos @ Messe Jugend und Beruf. The Naos were present at all four days of the trade fare "Jugend und Beruf". A lot of junior students were attracted by our robots and hopefully will find their way to our school in Fall 2020.
+- **September 05:** Nao soccer team impresses chancellor Brigitte Bierlein, federal minister of education Iris Rauskala, and member of the provincial government of upper austria Christine Haberlander.
 - **June29:** Best Nao presents a photo book to the bride Sabrina Rubenzer.
 - **June26:** CoderDojo at the Diesterwegschule in Linz
 - **May24:** CoderDojo at the Didacta Digital Austria held at the design center in Linz.
