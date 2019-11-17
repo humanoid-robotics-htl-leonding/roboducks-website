@@ -1,5 +1,10 @@
 # Activities
+## 2020
+- **February 26:** PowerGirls
+- **January 23 and 24:** Tag der offenen Tür
+
 ## 2019
+- **December 19:** CoderDojo NMS2 Lambach
 - **December 12:** We are at the Summit Industrie 4.0 in Linz.
 - **October 11:** Nao soccer team and Demo Humanoid Challenge presents at the CoderDojo special event at the HTL Leonding. About 120 kids are at this event.
 - **October 10:** Nao soccer team is at the alpha talk of the Hofer KG in Eberstalzell
