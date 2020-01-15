@@ -1,7 +1,10 @@
 # Activities
 ## 2020
+- **April 22 - 26:** RoboCup German Open at Magdeburg. The RoboDucks team will be at the German Open and try to get first touch with the world best teams of the Standard Platform League.
+- **February 28:** Traumberuf Technik at the JKU (Johannes Kepler University)
 - **February 26:** PowerGirls
-- **January 23 and 24:** Tag der offenen Tür
+- **January 23 and 24:** Tag der offenen Tür at the HTL Leonding
+- **January 10:** Soccer demo at the *My Informatics World* CoderDojo. 
 
 ## 2019
 - **December 19:** CoderDojo NMS2 Lambach
