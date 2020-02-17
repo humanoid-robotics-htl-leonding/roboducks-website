@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "RoboDucks HTL Leonding"
 theme = "ananke"
 [params]
-  header_logo = "images/roboducks-logo-1000x326px.png"
+  header_logo = "images/roboducks-logo-weiss-1000x326px.png"
   header_logo_alt_text = " "
