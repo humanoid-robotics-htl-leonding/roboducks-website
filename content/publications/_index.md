@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    title: "Events"
+    title: "Publications"
     weight: 40
 
 title: "Publications"
