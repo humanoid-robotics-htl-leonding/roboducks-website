@@ -2,7 +2,10 @@
 title: "About"
 date: 2020-02-14T10:59:10+01:00
 author: "Peter Bauer"
-menu: "main"
+menu:
+  main:
+    title: "Aboutal"
+    weight: 10
 draft: false
 ---
 # Humanoid Robotics @ HTL Leonding

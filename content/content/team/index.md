@@ -2,7 +2,10 @@
 title: "Team"
 date: 2020-02-18T10:59:10+01:00
 author: "Peter Bauer"
-menu: "main"
+menu:
+  main:
+    title: "Teamal"
+    weight: 20
 draft: true
 ---
 ## The Whole Team in Fall 2019
