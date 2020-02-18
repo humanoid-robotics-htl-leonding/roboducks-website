@@ -1,6 +1,9 @@
 ---
 title: "About"
+date: 2020-02-14T10:59:10+01:00
+author: "Peter Bauer"
 menu: "main"
+draft: false
 ---
 # Humanoid Robotics @ HTL Leonding
 Humanoid Robotics is a part of the HTL Leonding's *Program of Excellence* which offers a range of different intensive courses. The main aim of Humanoid Robotics is to motivate students of our school to solve complex problems in the field of
