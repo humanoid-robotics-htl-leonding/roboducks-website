@@ -6,7 +6,7 @@ menu:
 
 title: "Publications"
 date: 2020-02-18T14:15:13+01:00
-draft: true
+draft: false
 isOverview: true
 ---
 ## Team Reports
