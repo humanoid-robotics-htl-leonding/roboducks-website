@@ -12,10 +12,10 @@ draft: false
 ![The complete team](/images/whole-team.jpg)
 ## Junior Team
 Sarah Reichl, Lara Pichler, David Wögerbauer, Theresa Holzer and Grace (sitting on chair)
-![Theresa Holzer, Lara Pichler, David Wögerbauer, Sarah Reichl, Grace (on chair)](/images/junior-team1.png)
+![Theresa Holzer, Lara Pichler, David Wögerbauer, Sarah Reichl, Grace (on chair)](/images/junior-team1.jpg)
 
 Jakob Rathberger and Judy (sitting on table)
-![Jakob Rathberger, Judy (on table)](/images/junior-team2.png)
+![Jakob Rathberger, Judy (on table)](/images/junior-team2.jpg)
 
 ## Soccer Team
 Back: Max Wahl, Erik Mayrhofer  
