@@ -6,7 +6,7 @@ menu:
   main:
     title: "Teamal"
     weight: 20
-draft: true
+draft: false
 ---
 ## The Whole Team in Fall 2019
 ![The complete team](/images/whole-team.jpg)
