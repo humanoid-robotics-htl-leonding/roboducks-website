@@ -8,3 +8,5 @@ After great successes in  the RoboCupJunior Austrian Open challenges in the last
 We are the only Austrian Team taking part in the Standard Platform League and we will play against the World Best Teams in this category!
 
 {{< youtube jIobaJA_0ro >}}
+
+{{< youtube xyg4U4cyesw >}}
