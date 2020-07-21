@@ -1,7 +1,6 @@
 ---
 title: "Welcome to the Fabasoft RoboDucks Website"
 featured_image: '/images/homepage.jpg'
-description: "Nao Powered Humanoid Robotics @ HTL Leonding."
 ---
 After great successes in  the RoboCupJunior Austrian Open challenges in the last years we are heading for the RoboCup German Open in Magdeburg in April 2021!
 
